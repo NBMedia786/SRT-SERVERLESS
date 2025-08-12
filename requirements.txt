@@ -1,0 +1,9 @@
+runpod
+faster-whisper
+webrtcvad
+librosa
+soundfile
+scipy
+numpy
+requests
+torch
